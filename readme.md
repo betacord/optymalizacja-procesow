@@ -32,6 +32,7 @@
 | 0b  | [NumPy - wstęp / odświeżenie](https://github.com/betacord/optymalizacja-procesow/blob/main/PL/excercises/0_numpy.ipynb)                        | [NumPy - introduction / refresher](https://github.com/betacord/optymalizacja-procesow/blob/main/EN/excercises/0_numpy.ipynb)                   |
 | 0c  | [Pandas - wstęp / odświeżenie](https://github.com/betacord/optymalizacja-procesow/blob/main/PL/excercises/0_pandas.ipynb) | [Pandas - introduction / refresher](https://github.com/betacord/optymalizacja-procesow/blob/main/EN/excercises/0_pandas.ipynb) |
 | 1  | [Wstęp do optymalizacji procesów](https://github.com/betacord/optymalizacja-procesow/blob/main/PL/excercises/1_wstep_do_optymalizacji.ipynb)        | [Introduction to Process Optimization](https://github.com/betacord/optymalizacja-procesow/blob/main/EN/excercises/1_optimization_intro.ipynb)   |
+| 2 | Programowanie matematyczne | Mathematical Programming |
 
 ## Pełne treści przedmiotu 
 
