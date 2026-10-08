@@ -31,7 +31,7 @@
 | 0a  | [Wstęp do modelowania matematycznego](https://github.com/betacord/optymalizacja-procesow/blob/main/PL/excercises/0_modelowanie_matematyczne.ipynb)                | [Introduction to Mathematical Modeling](https://github.com/betacord/optymalizacja-procesow/blob/main/EN/excercises/0_mathematical_modelling.ipynb)              |
 | 0b  | [NumPy - wstęp / odświeżenie](https://github.com/betacord/optymalizacja-procesow/blob/main/PL/excercises/0_numpy.ipynb)                        | [NumPy - introduction / refresher](https://github.com/betacord/optymalizacja-procesow/blob/main/EN/excercises/0_numpy.ipynb)                   |
 | 0c  | [Pandas - wstęp / odświeżenie](https://github.com/betacord/optymalizacja-procesow/blob/main/PL/excercises/0_pandas.ipynb) | [Pandas - introduction / refresher](https://github.com/betacord/optymalizacja-procesow/blob/main/EN/excercises/0_pandas.ipynb) |
-| 1  | Wstęp do optymalizacji procesów        | Introduction to Process Optimization   |
+| 1  | [Wstęp do optymalizacji procesów](https://github.com/betacord/optymalizacja-procesow/blob/main/PL/excercises/1_wstep_do_optymalizacji.ipynb)        | [Introduction to Process Optimization](https://github.com/betacord/optymalizacja-procesow/blob/main/EN/excercises/1_optimization_intro.ipynb)   |
 
 ## Pełne treści przedmiotu 
 
