@@ -35,6 +35,7 @@
 | 2 | [Programowanie matematyczne](https://github.com/betacord/optymalizacja-procesow/blob/main/PL/excercises/2_programowanie_matematyczne.ipynb) | [Mathematical Programming](https://github.com/betacord/optymalizacja-procesow/blob/main/EN/excercises/2_mathematical_programming.ipynb) |
 | 3 | [Metaheurystyki](https://github.com/betacord/optymalizacja-procesow/blob/main/PL/excercises/3_metaheurystyki.ipynb) | [Metaheuristics](https://github.com/betacord/optymalizacja-procesow/blob/main/EN/excercises/3_metaheuristics.ipynb) |
 | 4 | [Optymalizacja gradientowa](https://github.com/betacord/optymalizacja-procesow/blob/main/PL/excercises/4_optymalizacja_gradientowa.ipynb) | [Gradient optimization](https://github.com/betacord/optymalizacja-procesow/blob/main/EN/excercises/4_gradient_optimization.ipynb) |
+| 5 | [Uczenie maszynowe - wstep](https://github.com/betacord/optymalizacja-procesow/blob/main/PL/excercises/5_uczenie_maszynowe.ipynb) | [Machine learning - introduction](https://github.com/betacord/optymalizacja-procesow/blob/main/EN/excercises/5_machine_learning.ipynb) |
 
 Dodatki:
 1. [Instrukcja instalacji solverów](https://github.com/betacord/optymalizacja-procesow/blob/main/add-ons/instalacja_solwerow.ipynb)
